@@ -7,7 +7,7 @@ public class Driver {
 		Scanner scan = new Scanner(System.in);
 
 		System.out.println("Before we begin, here are some friendly reminders: ");
-		ArrayList<String> Reminders = new ArrayList();
+		ArrayList<String> Reminders = new ArrayList<String>();
 
 		Reminders.add("Don't forget the U' when doing the chain rule!");
 		Reminders.add("Don't forget the + C when integrating!");
